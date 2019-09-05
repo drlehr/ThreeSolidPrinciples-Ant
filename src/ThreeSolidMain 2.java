@@ -4,8 +4,8 @@ import java.awt.*;        // Using AWT container and component classes
 import java.awt.event.*;  // Using AWT event classes and listener interfaces
 import java.io.*;
 
-// Add an example comment
-// Add 2nd comment and commit before discarding
+
+// Add 2nd change which go away because clear in GitDesktop
 
 public class ThreeSolidMain
 {   
