@@ -4,7 +4,7 @@ import java.awt.*;        // Using AWT container and component classes
 import java.awt.event.*;  // Using AWT event classes and listener interfaces
 import java.io.*;
 
-// Add an example comment
+// Comment to show that Git Desktop sees this change.
 
 
 public class ThreeSolidMain
